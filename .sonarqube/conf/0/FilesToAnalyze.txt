@@ -1,0 +1,15 @@
+﻿C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\Form1.cs
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\Form1.Designer.cs
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\Program.cs
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\Properties\AssemblyInfo.cs
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\Form1.resx
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\Properties\Resources.resx
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\packages.config
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\Properties\Settings.settings
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\App.config
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\img\lcv.png
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\img\Esquina.png
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\img\output-onlinegiftools.gif
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\img\alerta-removebg-preview.png
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\img\exito-removebg-preview.png
+C:\Users\Benjimon41\Desktop\letsgetthisdubbbaby\Verificador_Precios\Verificador_Precios\img\error-removebg-preview.png
